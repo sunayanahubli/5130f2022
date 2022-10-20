@@ -1,0 +1,10 @@
+Title:
+Comparison of different API Architectures
+
+Abstract:
+APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. 
+Web development involves various APIs, it is important to choose the right Architectural style for these APIs.
+In this Term paper, a comparison will be made on different API Architectures that are widely used. 
+The properties of the API, its pros and cons and their application in real world solutions will be compared. 
+Some of the API style that will be studied are REST, SOAP and GraphQL, etc. 
+This comparative analysis can aid and assist in choosing the right API architecture when designing solutions on the web. 
