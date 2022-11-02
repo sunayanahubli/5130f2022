@@ -1,0 +1,86 @@
+{
+  "data": {
+    "geolocation": [
+      {
+        "__typename": "GeoLocationList",
+        "type": "google",
+        "id": {
+          "__typename": "SearchGeolocationID",
+          "id": "ChIJGzE9DS1l44kRoOhiASS_fHg",
+          "type": "locality"
+        },
+        "name": {
+          "__typename": "AutocompleteName",
+          "text": "Boston, MA, USA",
+          "highlight": [
+            {
+              "__typename": "AutocompleteHighlight",
+              "offset": 0,
+              "length": 6
+            }
+          ]
+        }
+      },
+      {
+        "__typename": "GeoLocationList",
+        "type": "google",
+        "id": {
+          "__typename": "SearchGeolocationID",
+          "id": "ChIJKyNuvJ1w44kRBE-pe_yDhj8",
+          "type": "tourist_attraction"
+        },
+        "name": {
+          "__typename": "AutocompleteName",
+          "text": "Boston Common, Boylston Street, Boston, MA, USA",
+          "highlight": [
+            {
+              "__typename": "AutocompleteHighlight",
+              "offset": 0,
+              "length": 6
+            }
+          ]
+        }
+      },
+      {
+        "__typename": "GeoLocationList",
+        "type": "google",
+        "id": {
+          "__typename": "SearchGeolocationID",
+          "id": "ChIJM_dWOMXC10cRDJGg8UHVBoQ",
+          "type": "locality"
+        },
+        "name": {
+          "__typename": "AutocompleteName",
+          "text": "Boston, UK",
+          "highlight": [
+            {
+              "__typename": "AutocompleteHighlight",
+              "offset": 0,
+              "length": 6
+            }
+          ]
+        }
+      },
+      {
+        "__typename": "GeoLocationList",
+        "type": "google",
+        "id": {
+          "__typename": "SearchGeolocationID",
+          "id": "ChIJN0na1RRw44kRRFEtH8OUkww",
+          "type": "airport"
+        },
+        "name": {
+          "__typename": "AutocompleteName",
+          "text": "Boston Logan International Airport (BOS), Boston, MA, USA",
+          "highlight": [
+            {
+              "__typename": "AutocompleteHighlight",
+              "offset": 0,
+              "length": 6
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

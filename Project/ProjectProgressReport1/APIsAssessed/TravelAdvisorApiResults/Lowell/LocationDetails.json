@@ -1,0 +1,526 @@
+{
+  "data": {
+    "Typeahead_autocomplete": {
+      "__typename": "Typeahead_Response",
+      "resultsId": "baffdc8e-75d9-4d34-adcb-6c57e14e85e0_98b3f23c-f0ae-416b-ab44-4bdef27363ff",
+      "results": [
+        {
+          "__typename": "Typeahead_LocationItem",
+          "documentId": "60891",
+          "detailsV2": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "locationId": 60891,
+            "isGeo": true,
+            "placeType": "CITY",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "name": "Lowell",
+              "longOnlyHierarchyTypeaheadV2": "Massachusetts, United States"
+            },
+            "geocode": {
+              "__typename": "LocationSelection_LocationInformationV2Geocode",
+              "latitude": 42.64588,
+              "longitude": -71.31284
+            },
+            "contact": {
+              "__typename": "LocationSelection_LocationInformationV2Contact",
+              "streetAddress": {
+                "__typename": "LocationSelection_Address",
+                "street1": null
+              }
+            },
+            "route": {
+              "__typename": "Routing_Route",
+              "fragment": null,
+              "page": "Tourism",
+              "url": "/Tourism-g60891-Lowell_Massachusetts-Vacations.html",
+              "nonCanonicalUrl": "/Tourism-g60891-Lowell_Massachusetts-Vacations.html",
+              "typedParams": {
+                "__typename": "Routing_TourismParameters",
+                "geoId": 60891
+              }
+            }
+          },
+          "details": {
+            "__typename": "LocationInformation",
+            "socialStatistics": {
+              "__typename": "SocialStatistics",
+              "isSaved": false
+            }
+          },
+          "image": {
+            "__typename": "PrimaryMedia_PrimaryMedia",
+            "photo": {
+              "__typename": "Photo",
+              "photoSizeDynamic": {
+                "__typename": "PhotoSizeDynamic",
+                "maxHeight": 1500,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/15/e4/a5/lowell-national-historical.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "__typename": "PhotoSize",
+                  "height": 0,
+                  "width": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/15/e4/a5/lowell-national-historical.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 50,
+                  "width": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 150,
+                  "width": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 188,
+                  "width": 250,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 120,
+                  "width": 320,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-b/320x120/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 240,
+                  "width": 320,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-c/320x120/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 413,
+                  "width": 550,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 250,
+                  "width": 768,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-b/768x250/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 576,
+                  "width": 768,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-c/768x250/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 250,
+                  "width": 1024,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-b/1024x250/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 768,
+                  "width": 1024,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 768,
+                  "width": 1024,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-c/1024x250/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 250,
+                  "width": 1280,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-b/1280x250/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 960,
+                  "width": 1280,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 1500,
+                  "width": 2000,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 500,
+                  "width": 2560,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-b/2560x500/09/15/e4/a5/lowell-national-historical.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 1920,
+                  "width": 2560,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/09/15/e4/a5/lowell-national-historical.jpg"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "__typename": "Typeahead_LocationItem",
+          "documentId": "93585",
+          "detailsV2": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "locationId": 93585,
+            "isGeo": false,
+            "placeType": "ACCOMMODATION",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "name": "Lowell Hotel",
+              "longOnlyHierarchyTypeaheadV2": "New York City, New York"
+            },
+            "geocode": {
+              "__typename": "LocationSelection_LocationInformationV2Geocode",
+              "latitude": 40.76574,
+              "longitude": -73.96922
+            },
+            "contact": {
+              "__typename": "LocationSelection_LocationInformationV2Contact",
+              "streetAddress": {
+                "__typename": "LocationSelection_Address",
+                "street1": "28 E 63rd St"
+              }
+            },
+            "route": null
+          },
+          "details": {
+            "__typename": "LocationInformation",
+            "socialStatistics": {
+              "__typename": "SocialStatistics",
+              "isSaved": false
+            }
+          },
+          "image": {
+            "__typename": "PrimaryMedia_PrimaryMedia",
+            "photo": {
+              "__typename": "Photo",
+              "photoSizeDynamic": {
+                "__typename": "PhotoSizeDynamic",
+                "maxHeight": 5096,
+                "maxWidth": 3397,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/ff/ec/e5/hotel-exterior.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "__typename": "PhotoSize",
+                  "height": 0,
+                  "width": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/ff/ec/e5/hotel-exterior.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 50,
+                  "width": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 205,
+                  "width": 137,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 150,
+                  "width": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 200,
+                  "width": 180,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 450,
+                  "width": 300,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 825,
+                  "width": 550,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-p/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 1280,
+                  "width": 853,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/ff/ec/e5/hotel-exterior.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 1536,
+                  "width": 1024,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/25/ff/ec/e5/hotel-exterior.jpg"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "__typename": "Typeahead_LocationItem",
+          "documentId": "103173",
+          "detailsV2": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "locationId": 103173,
+            "isGeo": false,
+            "placeType": "ATTRACTION",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "name": "Lowell Observatory",
+              "longOnlyHierarchyTypeaheadV2": "Flagstaff, Arizona"
+            },
+            "geocode": {
+              "__typename": "LocationSelection_LocationInformationV2Geocode",
+              "latitude": 35.202003,
+              "longitude": -111.66472
+            },
+            "contact": {
+              "__typename": "LocationSelection_LocationInformationV2Contact",
+              "streetAddress": {
+                "__typename": "LocationSelection_Address",
+                "street1": "1400 W Mars Hill Rd"
+              }
+            },
+            "route": null
+          },
+          "details": {
+            "__typename": "LocationInformation",
+            "socialStatistics": {
+              "__typename": "SocialStatistics",
+              "isSaved": false
+            }
+          },
+          "image": {
+            "__typename": "PrimaryMedia_PrimaryMedia",
+            "photo": {
+              "__typename": "Photo",
+              "photoSizeDynamic": {
+                "__typename": "PhotoSizeDynamic",
+                "maxHeight": 1080,
+                "maxWidth": 1440,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/04/e1/8c/lowell-observatory.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "__typename": "PhotoSize",
+                  "height": 0,
+                  "width": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/04/e1/8c/lowell-observatory.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 50,
+                  "width": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/04/e1/8c/lowell-observatory.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 150,
+                  "width": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/04/e1/8c/lowell-observatory.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 200,
+                  "width": 180,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/18/04/e1/8c/lowell-observatory.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 188,
+                  "width": 250,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/04/e1/8c/lowell-observatory.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 413,
+                  "width": 550,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/04/e1/8c/lowell-observatory.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 768,
+                  "width": 1024,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/04/e1/8c/lowell-observatory.jpg"
+                },
+                {
+                  "__typename": "PhotoSize",
+                  "height": 960,
+                  "width": 1280,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/04/e1/8c/lowell-observatory.jpg"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "__typename": "Typeahead_QuerySuggestionItem",
+          "documentId": "9706f093b22458c7c1f86f050e50c76b0",
+          "suggestionType": "template",
+          "buCategory": "HOTELS",
+          "text": "lowell hotels",
+          "parentGeoDetails": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "longOnlyHierarchyTypeaheadV2": "Massachusetts, United States"
+            }
+          },
+          "route": {
+            "__typename": "Routing_Route",
+            "fragment": null,
+            "page": "HotelsFusion",
+            "url": "/Hotels-g60891-Lowell_Massachusetts-Hotels.html",
+            "nonCanonicalUrl": "/Hotels-g60891-Lowell_Massachusetts-Hotels.html?contentType=hotel&webVariant=HotelsFusion",
+            "typedParams": {
+              "__typename": "Routing_HotelsFusionParameters"
+            }
+          },
+          "scopeType": "GEO"
+        },
+        {
+          "__typename": "Typeahead_QuerySuggestionItem",
+          "documentId": "d81be061fb90c3d7c176d5402906432b0",
+          "suggestionType": "template",
+          "buCategory": "HOTELS",
+          "text": "lowell massachusetts hotel deals",
+          "parentGeoDetails": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "longOnlyHierarchyTypeaheadV2": "Massachusetts, United States"
+            }
+          },
+          "route": {
+            "__typename": "Routing_Route",
+            "fragment": null,
+            "page": "SmartDeals",
+            "url": "/SmartDeals-g60891-Lowell_Massachusetts-Hotel-Deals.html",
+            "nonCanonicalUrl": "/SmartDeals-g60891-Lowell_Massachusetts-Hotel-Deals.html",
+            "typedParams": {
+              "__typename": "Routing_SmartDealsParameters"
+            }
+          },
+          "scopeType": "GEO"
+        },
+        {
+          "__typename": "Typeahead_QuerySuggestionItem",
+          "documentId": "01181dc1114f53fa2fb477c2b1763cd20",
+          "suggestionType": "template",
+          "buCategory": "RESTAURANTS",
+          "text": "lowell breakfast restaurants",
+          "parentGeoDetails": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "longOnlyHierarchyTypeaheadV2": "Massachusetts, United States"
+            }
+          },
+          "route": {
+            "__typename": "Routing_Route",
+            "fragment": null,
+            "page": "Restaurants",
+            "url": "/Restaurants-g60891-zfp2-Lowell_Massachusetts.html",
+            "nonCanonicalUrl": "/Restaurants-g60891-zfp2-Lowell_Massachusetts.html",
+            "typedParams": {
+              "__typename": "Routing_RestaurantsParameters"
+            }
+          },
+          "scopeType": "GEO"
+        },
+        {
+          "__typename": "Typeahead_QuerySuggestionItem",
+          "documentId": "f4b45222bbc30345d622fbeb2b7d2fca0",
+          "suggestionType": "template",
+          "buCategory": "RESTAURANTS",
+          "text": "lowell restaurants with outdoor seating",
+          "parentGeoDetails": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "longOnlyHierarchyTypeaheadV2": "Massachusetts, United States"
+            }
+          },
+          "route": {
+            "__typename": "Routing_Route",
+            "fragment": null,
+            "page": "Restaurants",
+            "url": "/Restaurants-g60891-zfp6-Lowell_Massachusetts.html",
+            "nonCanonicalUrl": "/Restaurants-g60891-zfp6-Lowell_Massachusetts.html",
+            "typedParams": {
+              "__typename": "Routing_RestaurantsParameters"
+            }
+          },
+          "scopeType": "GEO"
+        },
+        {
+          "__typename": "Typeahead_QuerySuggestionItem",
+          "documentId": "c39be6b3837348861426669edcbaf66e0",
+          "suggestionType": "template",
+          "buCategory": "HOTELS",
+          "text": "lowell vermont hotel deals",
+          "parentGeoDetails": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "longOnlyHierarchyTypeaheadV2": "Vermont, United States"
+            }
+          },
+          "route": {
+            "__typename": "Routing_Route",
+            "fragment": null,
+            "page": "SmartDeals",
+            "url": "/SmartDeals-g57305-Lowell_Northeast_Kingdom_Vermont-Hotel-Deals.html",
+            "nonCanonicalUrl": "/SmartDeals-g57305-Lowell_Northeast_Kingdom_Vermont-Hotel-Deals.html",
+            "typedParams": {
+              "__typename": "Routing_SmartDealsParameters"
+            }
+          },
+          "scopeType": "GEO"
+        },
+        {
+          "__typename": "Typeahead_QuerySuggestionItem",
+          "documentId": "144b9ae87356e447fa52369abdea868d0",
+          "suggestionType": "template",
+          "buCategory": "RESTAURANTS",
+          "text": "lowell lunch restaurants",
+          "parentGeoDetails": {
+            "__typename": "LocationSelection_LocationInformationV2",
+            "names": {
+              "__typename": "LocationSelection_LocationNames",
+              "longOnlyHierarchyTypeaheadV2": "Massachusetts, United States"
+            }
+          },
+          "route": {
+            "__typename": "Routing_Route",
+            "fragment": null,
+            "page": "Restaurants",
+            "url": "/Restaurants-g60891-zfp30-Lowell_Massachusetts.html",
+            "nonCanonicalUrl": "/Restaurants-g60891-zfp30-Lowell_Massachusetts.html",
+            "typedParams": {
+              "__typename": "Routing_RestaurantsParameters"
+            }
+          },
+          "scopeType": "GEO"
+        },
+        {
+          "__typename": "Typeahead_RescueResultItem",
+          "documentId": "lowell",
+          "text": "lowell"
+        }
+      ]
+    }
+  }
+}

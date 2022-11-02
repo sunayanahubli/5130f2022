@@ -1,0 +1,21 @@
+Javascript/JQuery:
+const settings = {
+	"async": true,
+	"crossDomain": true,
+	"url": "https://the-fork-the-spoon.p.rapidapi.com/locations/v2/auto-complete?text=boston",
+	"method": "GET",
+	"headers": {
+		"X-RapidAPI-Key": "a1fd5239b5mshcf67a6dfdeecc53p1af634jsn46d1a6819805",
+		"X-RapidAPI-Host": "the-fork-the-spoon.p.rapidapi.com"
+	}
+};
+
+$.ajax(settings).done(function (response) {
+	console.log(response);
+});
+
+HTTP:
+GET /locations/v2/auto-complete?text=boston HTTP/1.1
+X-Rapidapi-Key: a1fd5239b5mshcf67a6dfdeecc53p1af634jsn46d1a6819805
+X-Rapidapi-Host: the-fork-the-spoon.p.rapidapi.com
+Host: the-fork-the-spoon.p.rapidapi.com
