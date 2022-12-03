@@ -4,6 +4,10 @@ Email: sunayana_hubli@student.uml.edu
 
 Project title: Web Application to find restaurants based on food allergies or intolerances and location
 
+Link: 
+https://sunayanahubli.github.io/
+
+
 Project Description: 
 There are many who suffer from food intolerance and allergies around us, yet there is no simple solution to find restaurants that have food options that cater to these dietary restrictions. 
 This can be increasingly frustrating and inconvenient to individuals who deal with these intolerances/allergies. 
